@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kkeerththanan89-collab/kkeerththanan89-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Keerththanan
 
-Here are some ideas to get you started:
+### 💻 Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Exploring+AI+%26+Machine+Learning;Learning+Full-Stack+Development;Turning+Ideas+Into+Code" />
+
+</div>
+
+---
+
+## 🧊 About Me
+
+```text
+┌─────────────────────────────────────────────┐
+│  👨‍💻 Software Engineering Student          │
+│  🚀 Building real-world projects             │
+│  🧠 Interested in AI & Full-Stack            │
+│  🌱 Always learning something new            │
+│  🇱🇰 Sri Lanka                               │
+└─────────────────────────────────────────────┘
