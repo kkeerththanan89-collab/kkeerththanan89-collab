@@ -1,128 +1,221 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:7c3aed&height=220&section=header&text=KEERTH%20THANAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Modern+Software;Exploring+AI+%26+Machine+Learning;Creating+Full-Stack+Applications;Learning+Software+Architecture;Turning+Ideas+Into+Code" /><br/><br/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,git,github&theme=dark" /></div>---
+# 🧊 DIGITAL DEVELOPER SPACE
 
-<div align="center">🧊 "DIGITAL DEVELOPER SPACE"
+### "A SOFTWARE ENGINEERING JOURNEY — FROM IDEA TO DEPLOYMENT"
+
+<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOFTWARE-0f172a?style=for-the-badge&logo=code&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20ML-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/LEARNING-ALWAYS-0f172a?style=for-the-badge&logo=bookstack&logoColor=7c3aed"/>
+
+</div>
+
+---
+
+## 👨‍💻 ABOUT ME
 
 <table>
 <tr>
-<td width="55%" valign="top">👨‍💻 About Me
+<td width="60%" valign="top">
 
-╔══════════════════════════════════╗
-║                                  ║
-║  SOFTWARE ENGINEERING STUDENT    ║
-║                                  ║
-║  > Building real-world software  ║
-║  > Exploring AI & ML             ║
-║  > Full-Stack Development        ║
-║  > Software Architecture         ║
-║  > Always learning & improving   ║
-║                                  ║
-║  LOCATION :: 🇱🇰 SRI LANKA       ║
-║                                  ║
-╚══════════════════════════════════╝
+### 01 / WHO AM I?
 
-</td><td width="45%" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkeerththanan89-collab&bg_color=0f172a&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/></td>
+I'm Keerththanan, a Software Engineering student passionate about turning ideas into practical software solutions.
+
+I enjoy exploring the complete software development journey — from designing systems and writing code to building real-world applications.
+
+### Currently exploring
+
+- 💻 Full-Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🏗️ Software Architecture & Design
+- ☁️ Cloud & DevOps
+- 🧩 Problem Solving & System Design
+
+</td>
+<td width="40%" align="center">
+
+### DEVELOPER STATUS
+
+<pre>
+╭──────────────────────────╮
+│   ● SYSTEM ONLINE        │
+│                          │
+│   USER                   │
+│   Keerththanan           │
+│                          │
+│   ROLE                   │
+│   Software Engineer      │
+│                          │
+│   LOCATION               │
+│   🇱🇰 Sri Lanka          │
+│                          │
+│   STATUS                 │
+│   🟢 Learning & Building │
+╰──────────────────────────╯
+</pre>
+
+</td>
 </tr>
-</table></div>---
+</table>
 
-⚡ CURRENT FOCUS
+---
 
-<div align="center">🧠 AI & ML| 💻 Full-Stack| 🏗️ Architecture| ☁️ DevOps
-Learning| Building| Designing| Exploring
+## ⚡ CURRENT FOCUS
 
-</div>---
+<div align="center">
 
-🛠️ TECH STACK
+| 🧠 AI & ML | 💻 FULL-STACK | 🏗️ ARCHITECTURE | ☁️ DEVOPS |
+|---|---|---|---|
+| **LEARNING** | **BUILDING** | **DESIGNING** | **EXPLORING** |
+| Intelligent systems & AI applications | Modern frontend-to-backend applications | Scalable & maintainable systems | Deployment, automation, Linux & cloud |
 
-<div align="center">Languages
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />Frontend & Backend
+---
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&theme=dark" />Database & Tools
+## 🛠️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,figma&theme=dark" /></div>---
+<div align="center">
 
-🚀 FEATURED PROJECTS
+### LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark"/>
 
-<div align="center"><table>
-<tr><td width="50%">🌱 Food Waste Platform
+### FRONTEND
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 
-Surplus-food marketplace designed to help reduce food waste and connect businesses with customers.
+### BACKEND
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-Stack
+### DATABASE
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark"/>
 
-"React" "Node.js" "MongoDB" "JWT"
+### TOOLS & WORKFLOW
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark"/>
 
-</td><td width="50%">🏙️ CityFix
+</div>
 
-Smart urban issue reporting and tracking platform designed for municipal issue management.
+---
 
-Stack
+## 🚀 FEATURED PROJECTS
 
-"React Native" "Node.js" "PostgreSQL" "Maps API"
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</td></tr><tr><td width="50%">🤖 AI Projects
+### 🌱 FOOD WASTE PLATFORM
+
+**Surplus Food Marketplace**
+
+A full-stack platform designed to help reduce food waste by connecting businesses with customers looking for surplus food before expiry.
+
+**Stack:** React · Node.js · MongoDB · JWT
+
+♻️ Sustainability · 🛒 Marketplace · 🔐 Authentication · 📊 Analytics
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ CITYFIX
+
+**Smart Urban Issue Reporting**
+
+A smart platform designed to help citizens report urban problems and allow authorities to track and manage issues efficiently.
+
+**Stack:** React Native · Node.js · PostgreSQL
+
+📍 Location Services · 📱 Mobile · 🏙️ Smart City · 📊 Issue Tracking
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI PROJECTS
+
+**Intelligent Software Experiments**
 
 Exploring AI-powered applications, automation and intelligent software solutions.
 
-Focus
+**Stack:** Python · AI · Machine Learning
 
-"Python" "AI" "Machine Learning"
+🧠 AI · ⚙️ Automation · 📚 Experimentation · 🔬 Research
 
-</td><td width="50%">💻 Future Link Technologies
+</td>
+<td width="50%" valign="top">
 
-Software development projects focused on building practical digital solutions.
+### 💻 FUTURE LINK TECHNOLOGIES
 
-Focus
+**Software Development**
 
-"Software Engineering" "Web" "Technology"
+Software development work focused on creating practical digital solutions.
 
-</td></tr>
-</table></div>---
+**Focus:** Software Engineering · Web Development · Technology
 
-📊 GITHUB ANALYTICS
+🎯 Build useful software that solves real-world problems.
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kkeerththanan89-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=7c3aed&text_color=e2e8f0" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkeerththanan89-collab&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=7c3aed&currStreakLabel=22d3ee" height="180"/></div><br/><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkeerththanan89-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" width="380"/></div>---
+</td>
+</tr>
+</table>
 
-🐍 CONTRIBUTION FLOW
+---
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/></div>---
+## 📊 GITHUB ANALYTICS
 
-🧩 DEVELOPER MINDSET
+<div align="center">
 
-<div align="center">              ┌───────────────┐
-              │    IDEA 💡    │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │   DESIGN 🎨   │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │   BUILD 💻    │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │   TEST 🧪     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │   SHIP 🚀     │
-              └───────────────┘
+<img src="https://github-readme-stats.vercel.app/api?username=Kkeerththanan89-collab&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=22d3ee&icon_color=7c3aed&text_color=e2e8f0" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkeerththanan89-collab&hide_border=true&theme=tokyonight&background=0f172a&ring=22d3ee&fire=7c3aed&currStreakLabel=22d3ee" height="180"/>
 
-</div>---
+<br/><br/>
 
-🌐 CONNECT
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkeerththanan89-collab&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" height="165"/>
 
-<div align="center"><a href="https://github.com/Kkeerththanan89-collab">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a><!-- ADD YOUR LINKEDIN URL --><a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a><!-- ADD YOUR PORTFOLIO URL --><a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=22d3ee"/>
-</a></div>---
+</div>
 
-<div align="center">⚡ "CODE • LEARN • BUILD • REPEAT"
+---
 
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0f172a&height=120&section=footer" width="100%"/></div>
+## 🐍 CONTRIBUTION FLOW
+
+<div align="center">
+
+### "MY CODE • MY PROGRESS • MY JOURNEY"
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+## 🧩 DEVELOPER MINDSET
+
+<div align="center">
+
+| 💡 01 IDEA | 🎨 02 DESIGN | 💻 03 BUILD | 🧪 04 TEST | 🚀 05 SHIP |
+|---|---|---|---|---|
+| Think → Explore → Define | Plan → Model → Architect | Code → Integrate → Develop | Test → Debug → Improve | Deploy → Monitor → Iterate |
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Kkeerththanan89-collab"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=7c3aed"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "CODE • LEARN • BUILD • REPEAT"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0f172a&height=130&section=footer" width="100%"/>
+
+</div>
