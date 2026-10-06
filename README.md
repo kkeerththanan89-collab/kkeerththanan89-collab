@@ -247,7 +247,11 @@ Interests: Full-Stack Development, AI & ML, Software Architecture, Cloud & DevOp
 
 **MY CODE • MY PROGRESS • MY JOURNEY**
 
-<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake.svg" />\n  <img src="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake" />\n</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake" />
+</picture>
 
 </div>
 
