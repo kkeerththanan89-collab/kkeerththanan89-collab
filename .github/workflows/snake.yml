@@ -25,8 +25,7 @@ jobs:
         run: |
           git clone --depth 1 "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
           cd repo
-          git fetch origin output:output || true
-          git checkout --orphan output
+          git checkout -B output
           git rm -rf . || true
           cp ../dist/github-contribution-grid-snake.svg .
           cp ../dist/github-contribution-grid-snake-dark.svg .
