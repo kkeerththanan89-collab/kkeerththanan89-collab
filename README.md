@@ -1,121 +1,209 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0e7490,100:7c3aed&height=230&section=header&text=K.%20KEERTHANAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%20%26%20CLOUD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0e7490,100:7c3aed&height=230&section=header&text=K.%20KEERTHANAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%20%26%20CLOUD&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="K. Keerththanan Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%F0%9F%87%B1%F0%9F%87%B0;Building+Real-World+Software+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Designing+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Learning+%7C+Building+%7C+Improving+%F0%9F%94%A5" alt="Typing SVG"/>
+<!-- Animated Typing Headline -->
+<a href="https://github.com/kkeerththanan89-collab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%87%B1%F0%9F%87%B0;Building+Real-World+Software+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Designing+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Learning+%7C+Building+%7C+Improving+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOFTWARE-0f172a?style=for-the-badge&logo=code&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20ML-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/DESIGNING-SCALABLE%20SYSTEMS-0f172a?style=for-the-badge&logo=architecture&logoColor=7c3aed"/>
-<img src="https://img.shields.io/badge/LEARNING-ALWAYS-0f172a?style=for-the-badge&logo=bookstack&logoColor=22d3ee"/>
+<p align="center">
+  <strong>Turning ideas into software &bull; From system design to deployment &bull; Always learning</strong>
+</p>
 
-<br/>
-<a href="https://github.com/kkeerththanan89-collab"><img src="https://img.shields.io/badge/GitHub-kkeerththanan89--collab-111827?style=for-the-badge&logo=github"/></a>
-<a href="mailto:kkeerththanan89@gmail.com"><img src="https://img.shields.io/badge/Email-kkeerththanan89%40gmail.com-111827?style=for-the-badge&logo=gmail"/></a>
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOFTWARE-0f172a?style=for-the-badge&logo=code&logoColor=22d3ee" alt="Building" />
+  <img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20ML-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Exploring AI and ML" />
+  <img src="https://img.shields.io/badge/DESIGNING-SCALABLE%20SYSTEMS-0f172a?style=for-the-badge&logo=architecture&logoColor=7c3aed" alt="Designing scalable systems" />
+  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-0f172a?style=for-the-badge&logo=bookstack&logoColor=22d3ee" alt="Learning always" />
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/kkeerththanan89-collab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kkeerththanan89--collab-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="mailto:kkeerththanan89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kkeerththanan89%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Badge" />
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkeerththanan89-collab&label=PROFILE+VIEWS&color=0e7490&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🧊 DIGITAL DEVELOPER SPACE
+### 👨‍💻 About Me
 
-> **Turning ideas into software — from system design to deployment.**
+I'm **Keerththanan**, a **Software Engineering student** at **CINEC Campus, Sri Lanka**, passionate about building practical software and understanding how systems work internally.
 
-## 👨‍💻 ABOUT ME
+I enjoy working across the full software development lifecycle — **requirements → architecture → development → testing → deployment** — and I'm focused on turning ideas into software that solves real-world problems.
 
-I'm **Keerththanan**, a Software Engineering student at **CINEC Campus, Sri Lanka**, passionate about building practical software and understanding how systems work internally.
-
-I enjoy working across the software development lifecycle — **requirements → architecture → development → testing → deployment**.
-
-### 🎯 Currently Exploring
-- 💻 Full-Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🏗️ Software Architecture & System Design
-- ☁️ Cloud, Linux & DevOps
-- 🔐 Software Security
-- 📊 Data & Intelligent Systems
-
-### 🟢 DEVELOPER STATUS
-- **User:** K. Keerththanan
-- **Role:** Software Engineer
-- **Location:** 🇱🇰 Sri Lanka
-- **Status:** Learning & Building
+```yaml
+Name: K. Keerththanan
+Location: Sri Lanka 🇱🇰
+Education: Software Engineering, CINEC Campus
+Role: Software Engineer
+Status: Learning & Building
+Interests: Full-Stack Development, AI & ML, Software Architecture, Cloud & DevOps, Security
+```
 
 ---
 
-## ⚡ CURRENT FOCUS
-
-| 🤖 AI & ML | 💻 FULL-STACK | 🏗️ ARCHITECTURE | ☁️ DEVOPS |
-|---|---|---|---|
-| **LEARNING** | **BUILDING** | **DESIGNING** | **EXPLORING** |
-| Intelligent systems & AI applications | Modern frontend + backend applications | Scalable & maintainable systems | Linux, automation & cloud |
-
----
-
-## 🛠️ TECH STACK
+### ⚡ Current Focus
 
 <div align="center">
 
-### LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark"/>
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-### FRONTEND
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+**🤖 AI & ML**<br/>
+`LEARNING`<br/>
+<sub>Intelligent systems & AI applications</sub>
 
-### BACKEND
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+</td>
+<td width="25%" align="center" valign="top">
 
-### DATABASE & DATA
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark"/>
+**💻 Full-Stack**<br/>
+`BUILDING`<br/>
+<sub>Modern frontend + backend applications</sub>
 
-### TOOLS & WORKFLOW
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&theme=dark"/>
+</td>
+<td width="25%" align="center" valign="top">
+
+**🏗️ Architecture**<br/>
+`DESIGNING`<br/>
+<sub>Scalable & maintainable systems</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**☁️ DevOps**<br/>
+`EXPLORING`<br/>
+<sub>Linux, automation & cloud</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 🚀 FEATURED PROJECTS
-
-### 🌱 FOOD WASTE PLATFORM
-**Surplus Food Marketplace**
-
-A full-stack platform designed to reduce food waste by connecting businesses with customers looking for surplus food before expiry.
-
-**Stack:** React · Node.js · MongoDB · JWT
-
-♻️ Sustainability · 🛒 Marketplace · 🔐 Authentication · 📊 Analytics
-
-### 🏙️ CITYFIX
-**Smart Urban Issue Reporting**
-
-A smart platform for reporting urban problems and helping authorities track, assign and resolve issues efficiently.
-
-**Stack:** React Native · Node.js · PostgreSQL
-
-📍 Location Services · 📱 Mobile · 🏙️ Smart City · 📊 Tracking
-
-### 🤖 AI PROJECTS
-**Intelligent Software Experiments**
-
-Exploring AI-powered applications, automation and intelligent software solutions.
-
-**Stack:** Python · AI · Machine Learning
-
-🧠 AI · ⚙️ Automation · 🔬 Experimentation
-
-### 💻 FUTURE LINK TECHNOLOGIES
-**Software Development**
-
-Building practical digital solutions while exploring modern software engineering technologies.
-
-**Focus:** Software Engineering · Web Development · Technology
-
-🎯 Build useful software that solves real-world problems.
+#### 🎯 Currently Exploring
+- 💻 **Full-Stack Development**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🏗️ **Software Architecture & System Design**
+- ☁️ **Cloud, Linux & DevOps**
+- 🔐 **Software Security**
+- 📊 **Data & Intelligent Systems**
 
 ---
 
-## 🧩 DEVELOPER MINDSET
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,vite,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,vscode,figma,linux,docker&theme=dark" alt="Skill Icons" />
+</div>
+
+<br />
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **🔤 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **🔧 Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) |
+| **🗄️ Database & Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+| **🛠️ Tools & Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 Food Waste Platform</h3>
+      <p align="center"><strong>Surplus Food Marketplace</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      </p>
+      <p>
+        A full-stack platform designed to reduce food waste by connecting businesses with customers looking for surplus food before expiry.
+      </p>
+      <ul>
+        <li>♻️ <strong>Sustainability</strong></li>
+        <li>🛒 <strong>Marketplace</strong></li>
+        <li>🔐 <strong>Authentication</strong></li>
+        <li>📊 <strong>Analytics</strong></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ CityFix</h3>
+      <p align="center"><strong>Smart Urban Issue Reporting</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p>
+        A smart platform for reporting urban problems and helping authorities track, assign and resolve issues efficiently.
+      </p>
+      <ul>
+        <li>📍 <strong>Location Services</strong></li>
+        <li>📱 <strong>Mobile</strong></li>
+        <li>🏙️ <strong>Smart City</strong></li>
+        <li>📊 <strong>Tracking</strong></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Projects</h3>
+      <p align="center"><strong>Intelligent Software Experiments</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/badge/Machine_Learning-0E7490?style=flat-square" alt="Machine Learning" />
+      </p>
+      <p>
+        Exploring AI-powered applications, automation and intelligent software solutions.
+      </p>
+      <ul>
+        <li>🧠 <strong>AI</strong></li>
+        <li>⚙️ <strong>Automation</strong></li>
+        <li>🔬 <strong>Experimentation</strong></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Future Link Technologies</h3>
+      <p align="center"><strong>Software Development</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Software_Engineering-0F172A?style=flat-square" alt="Software Engineering" />
+        <img src="https://img.shields.io/badge/Web_Development-0E7490?style=flat-square" alt="Web Development" />
+      </p>
+      <p>
+        Building practical digital solutions while exploring modern software engineering technologies.
+      </p>
+      <ul>
+        <li>🎯 <strong>Focus:</strong> Software Engineering, Web Development, Technology</li>
+        <li>🚀 <strong>Goal:</strong> Build useful software that solves real-world problems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧩 Developer Mindset
 
 <div align="center">
 
@@ -123,56 +211,67 @@ Building practical digital solutions while exploring modern software engineering
 
 💡 → 🎨 → 💻 → 🧪 → 🚀
 
-**Think → Plan → Architect → Code → Test → Deploy → Improve**
+<sub>Think → Plan → Architect → Code → Test → Deploy → Improve</sub>
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kkeerththanan89-collab&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=22d3ee&icon_color=7c3aed&text_color=e2e8f0" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kkeerththanan89-collab&hide_border=true&theme=tokyonight&background=0f172a&ring=22d3ee&fire=7c3aed&currStreakLabel=22d3ee" height="180"/>
-
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeerththanan89-collab&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" height="165"/>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kkeerththanan89-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=7c3aed&text_color=e2e8f0" alt="Keerththanan's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=kkeerththanan89-collab&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=7c3aed&currStreakLabel=22d3ee" alt="Keerththanan's Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kkeerththanan89-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" alt="Keerththanan's Top Languages" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION FLOW
+### 🐍 Contribution Flow
 
 <div align="center">
 
-### MY CODE • MY PROGRESS • MY JOURNEY
+**MY CODE • MY PROGRESS • MY JOURNEY**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake" />
 
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+### 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/kkeerththanan89-collab"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="mailto:kkeerththanan89@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <p>I'm always open to discussing <strong>software engineering</strong>, <strong>AI</strong>, and exciting project collaborations!</p>
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=kkeerththanan89-collab&label=PROFILE%20VIEWS&color=0e7490&style=for-the-badge"/>
+  <a href="https://github.com/kkeerththanan89-collab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:kkeerththanan89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Message-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
 
-</div>
+  <br/><br/>
 
----
+  <h3>⚡ CODE • LEARN • BUILD • REPEAT</h3>
 
-<div align="center">
-
-### ⚡ CODE • LEARN • BUILD • REPEAT
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0f172a&height=130&section=footer" width="100%"/>
+  <!-- Bottom Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0f172a&height=130&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
