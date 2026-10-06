@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0e7490,100:7c3aed&height=230&section=header&text=K.%20KEERTHANAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%20%26%20CLOUD&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="K. Keerththanan Banner" />
+<img src="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/main/assets/profile-banner.svg" width="100%" alt="K. Keerththanan Banner" />
 
 <!-- Animated Typing Headline -->
 <a href="https://github.com/kkeerththanan89-collab">
@@ -247,7 +247,7 @@ Interests: Full-Stack Development, AI & ML, Software Architecture, Cloud & DevOp
 
 **MY CODE • MY PROGRESS • MY JOURNEY**
 
-<img src="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake" />
+<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake.svg" />\n  <img src="https://raw.githubusercontent.com/kkeerththanan89-collab/kkeerththanan89-collab/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake" />\n</picture>
 
 </div>
 
